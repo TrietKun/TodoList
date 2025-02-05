@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "865494246343",
+    "firebase_url": "https://chatapp-efe5a-default-rtdb.firebaseio.com",
+    "project_id": "chatapp-efe5a",
+    "storage_bucket": "chatapp-efe5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865494246343:android:9e967382558a2eb75fefe2",
+        "android_client_info": {
+          "package_name": "com.example.datn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM1qjUbDYhWFo8Z-LjKEbwO73DANSlAPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865494246343:android:78624b47513a1fbf5fefe2",
+        "android_client_info": {
+          "package_name": "com.example.todo_list_riverpod"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM1qjUbDYhWFo8Z-LjKEbwO73DANSlAPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
